@@ -1,0 +1,28 @@
+{
+  "name": "tprotractor",
+  "version": "1.0.0",
+  "description": "protractor angular testing end to end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpunalkar/tprotractor.git"
+  },
+  "keywords": [
+    "protactor",
+    "webdriver",
+    "jasmine"
+  ],
+  "author": "Ganesh Punalkar <ganesh.punalkar@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gpunalkar/tprotractor/issues"
+  },
+  "homepage": "https://github.com/gpunalkar/tprotractor#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "protractor": "^5.2.0"
+  }
+}
