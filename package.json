@@ -21,7 +21,9 @@
     "url": "https://github.com/gpunalkar/tprotractor/issues"
   },
   "homepage": "https://github.com/gpunalkar/tprotractor#readme",
-  "dependencies": {},
+  "dependencies": {
+    "simple-node-logger": "^0.93.30"
+  },
   "devDependencies": {
     "protractor": "^5.2.0"
   }

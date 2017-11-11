@@ -1,17 +1,9 @@
-'usr strict';
+'use strict';
 exports.config = {
-
-  directConnect : true,
-
-  //seleniumAddress: 'http://192.168.2.6:4444/wd/hub',
-  specs: ['first.js'], 
+  directConnect: true,
+  specs: ['Index.js'],
   
   jasmineNodeOpts: {
-    defaultTimeoutInterval: 9000
+    defaultTimeoutInterval: 300000
   },
-  
-onPrepare: function() { 
-    browser.ignoreSynchronization = true; 
-  } 
 };
-
