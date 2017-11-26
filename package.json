@@ -13,6 +13,7 @@
   "keywords": [
     "protactor",
     "webdriver",
+    "webdriver-js-extender",
     "jasmine"
   ],
   "author": "Ganesh Punalkar <ganesh.punalkar@gmail.com>",
@@ -22,6 +23,8 @@
   },
   "homepage": "https://github.com/gpunalkar/tprotractor#readme",
   "dependencies": {
+    "selenium": "^2.20.0",
+    "selenium-webdriver": "^3.6.0",
     "simple-node-logger": "^0.93.30"
   },
   "devDependencies": {

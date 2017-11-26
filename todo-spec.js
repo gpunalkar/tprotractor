@@ -1,5 +1,5 @@
 browser.get('https://developer.servicenow.com');
-
+browser.
 fucntion getId(id){
     retrun element(by.id("dp-hdr-login-link"));
 }
