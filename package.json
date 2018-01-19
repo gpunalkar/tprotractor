@@ -25,9 +25,9 @@
   "dependencies": {
     "selenium": "^2.20.0",
     "selenium-webdriver": "^3.6.0",
-    "simple-node-logger": "^0.93.30"
+    "simple-node-logger": "^0.93.33"
   },
   "devDependencies": {
-    "protractor": "^5.2.0"
+    "protractor": "^5.2.2"
   }
 }
